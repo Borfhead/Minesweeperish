@@ -1,0 +1,44 @@
+#cell{
+    -fx-background-color: cornflowerblue;
+    -fx-border-color: black;
+    -fx-border-radius: 0;
+    -fx-border-width: 1;
+}
+
+#cell:hover{
+    -fx-background-color: cyan;
+}
+
+
+
+#bomb{
+    -fx-background-color: cornflowerblue;
+    -fx-border-color: black;
+    -fx-border-radius: 0;
+    -fx-border-width: 1;
+}
+
+#bomb:hover{
+    -fx-background-color: cyan;
+}
+
+#unmarkedBomb{
+    -fx-background-color: red;
+    -fx-border-color: black;
+    -fx-border-radius: 0;
+    -fx-border-width: 1;
+}
+
+#markedBomb{
+    -fx-background-color: forestgreen;
+    -fx-border-color: black;
+    -fx-border-radius: 0;
+    -fx-border-width: 1;
+}
+
+#markedCell{
+    -fx-background-color: yellow;
+    -fx-border-color: black;
+    -fx-border-radius: 0;
+    -fx-border-width: 1;
+}
